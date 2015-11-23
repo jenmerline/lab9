@@ -13,12 +13,14 @@ was the primary author of HTML.</p>
 
 <br /> 
 
+<!---picture found on google of Tim Berners-Lee-->
 This is a picture of Tim Berners-Lee:<br />
 <img src="http://obamapacman.com/wp-content/uploads/2009/08/Inventor-of-the-World-Wide-Web-Tim-Berners-Lee-with-his-Apple-Mac-laptop-running-OS-X.jpg" alt="Tim Berners-Lee" title="Tim Berners-Lee">
 
 <br />
 <br />
 
+<!---video found on YouTube of Tim Berners-Lee-->
 This is a video of Tim Berners-Lee talking about the Internet and his invention:<br />
 <iframe width="100%" height="80%" src="https://www.youtube.com/embed/OM6XIICm_qo" frameborder="0" allowfullscreen></iframe>
 
